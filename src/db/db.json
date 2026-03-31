@@ -1,0 +1,55 @@
+[
+  {
+    "id": "1",
+    "name": "Arif",
+    "email": "arif@mail.com",
+    "phone": "123-456"
+  },
+  {
+    "id": "2",
+    "name": "Mango",
+    "email": "mango@mail.com",
+    "phone": "789-012"
+  },
+  {
+    "id": "3",
+    "name": "Poly",
+    "email": "poly@mail.com",
+    "phone": "345-678"
+  },
+  {
+    "id": "e88ad5f2-3347-4606-8150-21ae64bac367",
+    "name": "Donna McDermott MD",
+    "phone": "(343) 281-0583 x78736",
+    "email": "Joan77@hotmail.com",
+    "job": "Central Communications Planner"
+  },
+  {
+    "id": "b0822cbe-3f02-4f75-9659-e8ea7f3db6fd",
+    "name": "Christian Stroman",
+    "phone": "265-693-8929 x5608",
+    "email": "Casey61@hotmail.com",
+    "job": "Forward Data Assistant"
+  },
+  {
+    "id": "9c87d1fd-4f83-424f-b376-756240940167",
+    "name": "Laura Mayer",
+    "phone": "482.817.2170 x58297",
+    "email": "Keyshawn.Howe40@gmail.com",
+    "job": "Senior Quality Planner"
+  },
+  {
+    "id": "30424070-38c3-4177-92e6-44eafcfd6baf",
+    "name": "Ruben Batz",
+    "phone": "(938) 541-8491 x1770",
+    "email": "Ivy25@gmail.com",
+    "job": "Corporate Group Consultant"
+  },
+  {
+    "id": "0dafbd3c-cf25-495f-a76f-1e1fea9e81ff",
+    "name": "Sammy Ryan",
+    "phone": "845.602.2604 x0666",
+    "email": "Emerald_Reynolds11@gmail.com",
+    "job": "Global Security Officer"
+  }
+]
